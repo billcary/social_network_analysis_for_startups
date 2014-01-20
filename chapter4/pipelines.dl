@@ -1,0 +1,19 @@
+dl 
+n=14
+labels "Abkhazia","Armenia", "Azerbajan", "Chechnya", "EU","Georgia","Iran", "Kazakhstan", "Nagorni Karabakh", "Russia", "South Osetia" "Turkey" "Turkmenistan" "USA"
+format=fullmatrix
+data:
+0	0	0	0	0	1	0	0	0	1	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	1	1	1	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	1	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	1	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1	0	1	0	0	0	0	0	0	1	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1	0	1	1	0	0	0	0	0	0	0	0
+0	0	1	0	0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	1	0	0	0	0	0	0	0

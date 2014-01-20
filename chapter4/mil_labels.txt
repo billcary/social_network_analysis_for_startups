@@ -1,0 +1,1 @@
+"Abkhazia","Armenia", "Azerbajan", "Chechnya", "EU","Georgia","Iran", "Kazakhstan", "Nagorni Karabakh", "Russia", "South Osetia", "Turkey", "Turkmenistan","USA"
